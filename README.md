@@ -1,1 +1,1 @@
-# praktiku-3
+# praktikum-3
